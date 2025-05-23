@@ -18,7 +18,14 @@
 
 ## Datasets
 
-Download zip files from https://drive.google.com/drive/folders/10-pf2ADCjq_kpJKFHHLHxr_czNNCJ3aX and unzip them in datas/. 
+We evaluated three heterogeneous datasets (ACM, R-I, and R-II) and seven homogeneous datasets. 
+
+Among the **heterogeneous** datasets, only ACM is publicly accessible at https://drive.google.com/drive/folders/10-pf2ADCjq_kpJKFHHLHxr_czNNCJ3aX, where the files can be unzipped into the data/ directory. R-I and R-II are strictly closed source due to Tencent's privacy policy. 
+
+For the **homogeneous** datasets, we directly adopt the data released by Tang et al. (2023), available at https://github.com/squareRoot3/GADBench/tree/master?tab=readme-ov-file.
+
+**Reference**:
+Tang, J., Hua, F., Gao, Z., et al. (2023). GADBench: Revisiting and benchmarking supervised graph anomaly detection. In *Advances in Neural Information Processing Systems* (Vol. 36, pp. 29628–29653).
 
 **Directory Structure**
 
